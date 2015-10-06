@@ -1,9 +1,8 @@
 module Menu
 
   def menu
-    
-    @takeaway_menu.each do | item, price |
-        puts "#{item}: £#{price}"
+    @dishes.each do |dish, price|
+      puts "#{dish}, $#{price}"
     end
   end
 end
