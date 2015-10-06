@@ -26,7 +26,7 @@ How to Use:
 -------
 
 ```
-$ git clone https://github.com/annaschechter/bowling-challenge.git
+$ git clone https://github.com/ajitsy/takeaway-challenge
 ```
 
 ```
