@@ -27,10 +27,9 @@ How to Use:
 
 ```
 $ git clone https://github.com/ajitsy/takeaway-challenge
-```
-
-```
-bundle install
+$ cd takeaway-challenge
+$ bundle install
+$ irb
 ```
 
 Use Rspec to test it.
