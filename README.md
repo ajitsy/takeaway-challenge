@@ -38,3 +38,5 @@ Technologies Used:
 -------
 * Ruby
 * Rspec
+
+Note: Repository was updated from [this repo](https://github.com/ajitsy/takeaway)
